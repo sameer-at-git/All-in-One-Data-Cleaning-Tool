@@ -8,3 +8,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository
 https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists
 https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-dataset
 https://www.kaggle.com/datasets/utkarshx27/sales-data-of-a-retail-store
+
