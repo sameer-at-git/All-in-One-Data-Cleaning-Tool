@@ -47,6 +47,7 @@ An intelligent data cleaning application that uses AI to automatically analyze, 
 ### Workflow Overview
 
 CSV Upload -> Domain Detection -> AI Analysis -> Cleaning Plan -> Execution -> Download
+![Flow](./flow.png)
 
 ### Detailed Flow
 
@@ -59,6 +60,7 @@ CSV Upload -> Domain Detection -> AI Analysis -> Cleaning Plan -> Execution -> D
 #### 2. AI-Powered Domain Detection
 
 Column Analysis -> Data Type Check -> Sample Review -> Domain Classification
+![Domain](./aidirven.png)
 
 - Supported Domains: Sales, E-commerce, Finance, Healthcare, Education, Weather, and 40+ more
 - Intelligent Detection: Uses column names, data types, and sample values
@@ -67,6 +69,7 @@ Column Analysis -> Data Type Check -> Sample Review -> Domain Classification
 #### 3. Smart Data Analysis & Planning
 
 Initial EDA -> Quality Assessment -> Action Recommendations -> User Customization
+![Smart](./smart.png)
 
 - Comprehensive EDA: Shape, null values, duplicates, data types
 - Cleanliness Scoring: 0-100 score with detailed assessment
@@ -75,6 +78,7 @@ Initial EDA -> Quality Assessment -> Action Recommendations -> User Customizatio
 #### 4. Interactive Plan Customization
 
 AI Recommendations -> User Review -> Add/Remove Actions -> Plan Finalization
+![Custom](./custom.png)
 
 - 60+ Cleaning Actions: Missing values, duplicates, outliers, formatting, etc.
 - Priority Levels: High/Medium/Low impact actions
@@ -83,6 +87,7 @@ AI Recommendations -> User Review -> Add/Remove Actions -> Plan Finalization
 #### 5. Intelligent Execution & Results
 
 Plan Execution -> Progress Tracking -> Quality Metrics -> Download Ready
+![Flow2](./intel.png)
 
 - Smart Cleaning: Domain-aware missing value handling
 - Progress Monitoring: Real-time execution tracking
