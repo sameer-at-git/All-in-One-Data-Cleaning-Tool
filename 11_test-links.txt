@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
+https://www.kaggle.com/datasets/karkavelrajaj/insurance
+https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023
+https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository
+https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists
+https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-dataset
+https://www.kaggle.com/datasets/utkarshx27/sales-data-of-a-retail-store
