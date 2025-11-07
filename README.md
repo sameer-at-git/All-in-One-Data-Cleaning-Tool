@@ -109,6 +109,8 @@ data_cleaning_app/
 - requirements.txt: Dependencies
 ```
 
+![Module](./module.png)
+
 ### AI Agents System
 
 #### Agent 1: Domain Analyst
