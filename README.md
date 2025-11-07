@@ -1,8 +1,11 @@
 # AI Data Cleaning Tool
 
+[Try the app now on : clean-dataset.streamlit.app](https://clean-dataset.streamlit.app/)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)
 
 An intelligent data cleaning application that uses AI to automatically analyze, detect domains, and clean your datasets with domain-specific intelligence.
+![Application UI](./ui.png)
 
 ## Quick Start
 
